@@ -4,7 +4,7 @@
 
 Solutions to ***random*** graduate-level problems in elementary particle physics for **FUN**, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook.
 ###
-© 2023–2026 yuriphestos
+© 2026 yuriphestos
 > [!CAUTION]
 > This person can make mistakes! Some parts may be incomplete. Please re-check everything by yourself.
 
