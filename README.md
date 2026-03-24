@@ -28,7 +28,7 @@ Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and 
 
 | **Task** | **Topic** |
 |---------|-------|
-| 1 | Electroweak Decay Widths, Cross Sections, and Gauge Structure |
+| 1 | Decays (*W*, *Z*, *t*, Higgs) and Tree-level Cross Sections ($e^+ e^- \rightarrow \mu^+\mu^-$, $e^+ e^- \rightarrow W^+W^-$) |
 | 2 | *TBD* |
 | 3 | *TBD* |
 | 4 | *TBD* |
