@@ -2,7 +2,7 @@
 
 **Author:** Γιούρι Ήφαιστος
 
-Solutions to random graduate-level problems in elementary particle physics, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook.
+Solutions to ***random*** graduate-level problems in elementary particle physics for **FUN**, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook.
 ###
 © 2023–2026 yuriphestos
 > [!CAUTION]
