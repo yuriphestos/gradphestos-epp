@@ -17,7 +17,7 @@ Each task is organized as:
 ```
 task-N/
   ├── task-N.pdf              — Solution write-up for Task N
-  └── task-N-K.nb             — Mathematica notebook for Task N subsection K
+  └── task-N-K.m              — Mathematica script for Task N subsection K
 ```
 
 Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and spin sums are verified using [FeynCalc](https://feyncalc.github.io/).
