@@ -1,8 +1,8 @@
 # Graduate Level Elementary Particle Physics
 
-**Author:** [Γιούρι Ήφαιστος](https://github.com/yuriphestos/gradphestos-epp)
+**Author:** Γιούρι Ήφαιστος
 
-Solutions to random graduate-level problems in elementary particle physics, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebooks.
+Solutions to random graduate-level problems in elementary particle physics, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook.
 ###
 © 2023–2026 yuriphestos
 > [!CAUTION]
@@ -12,7 +12,7 @@ Solutions to random graduate-level problems in elementary particle physics, with
 
 ## Repository
 
-Each task is organized as a self-contained unit:
+Each task is organized as:
 
 ```
 Task N/
