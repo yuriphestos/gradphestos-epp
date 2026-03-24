@@ -15,9 +15,9 @@ Solutions to random graduate-level problems in elementary particle physics, with
 Each task is organized as:
 
 ```
-Task N/
-  ├── Task N.pdf              — Solution write-up for Task N
-  └── Task N-K.nb             — Mathematica notebook for Task N subsection K
+task-N/
+  ├── task-N.pdf              — Solution write-up for Task N
+  └── task-N-K.nb             — Mathematica notebook for Task N subsection K
 ```
 
 Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and spin sums are verified using [FeynCalc](https://feyncalc.github.io/).
