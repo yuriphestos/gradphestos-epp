@@ -29,7 +29,7 @@ Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and 
 | **Task** | **Topic** |
 |---------|-------|
 | 1 | Decays (*W*, *Z*, *t*, Higgs) and Tree-level Cross Sections ($e^+ e^- \rightarrow \mu^+\mu^-$, $e^+ e^- \rightarrow W^+W^-$) |
-| 2 | *TBD* |
+| 2 | *Z* Production at the Tevatron, Higgs Decay to *gg*, Higgs Production at the LHC, and Di-Higgs Production |
 | 3 | *TBD* |
 | 4 | *TBD* |
 
