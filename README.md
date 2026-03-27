@@ -2,9 +2,10 @@
 
 **Author:** Γιούρι Ήφαιστος
 
-Solutions to ***random*** graduate-level problems in elementary particle physics for **FUN**, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook.
+Solutions to ***random*** graduate-level problems in elementary particle physics for **FUN**, with emphasis on electroweak interactions and the Standard Model. Each task contains detailed(?) derivations in pdf file, supplemented by short numerical computations(?) in Mathematica Notebook or Python.
 ###
 © 2026 yuriphestos
+###
 > [!CAUTION]
 > This person can make mistakes! Some parts may be incomplete. Please re-check everything by yourself.
 
@@ -17,10 +18,9 @@ Each task is organized as:
 ```
 task-N/
   ├── task-N.pdf              — Solution write-up for Task N
-  └── task-N-K.m              — Mathematica script for Task N subsection K
+  ├── task-N-K.m              — Mathematica script for Task N subsection K
+  └── task-N-K.py             — Python script for Task N subsection K
 ```
-
-Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and spin sums are verified using [FeynCalc](https://feyncalc.github.io/).
 
 ---
 
@@ -30,8 +30,9 @@ Feynman diagrams are drawn with `tikz-feynman`. Symbolic trace calculations and 
 |---------|-------|
 | 1 | Decays ($W$, $Z$, $t$, Higgs) and Cross Sections ($e^+ e^- \rightarrow \mu^+\mu^-$ and $e^+ e^- \rightarrow W^+W^-$) |
 | 2 | $Z$ Production at the Tevatron, Higgs Decay to $gg$, Higgs Production at the LHC, and Di-Higgs Production |
-| 3 | *TBD* |
+| 3 | Pion Decay Constant, Polarized Neutron Decay, Solar Neutrino-Electron Scattering, and Constraining New Physics with Pion Decay|
 | 4 | *TBD* |
+| 5 | *TBD* |
 
 ---
 
