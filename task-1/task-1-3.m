@@ -34,10 +34,10 @@ Subscript[\[Sigma], had][s_,
 Subscript[\[Sigma], ISR][Ecm_?NumericQ, Nnu_] := 
  Module[{s = 
     Ecm^2, \[Beta]}, \[Beta] = (2*\[Alpha]/Pi)*(Log[s/me^2] - 1);
-  NIntegrate[((1 + 3*\[Beta]/4) - (1/2)*(1 + y^(1/\[Beta]))*
-       y^(1/\[Beta] - 1))*
-    Subscript[\[Sigma], had][s*(1 - y^(1/\[Beta])), Nnu], {y, 0, 1}, 
-   Method -> "GlobalAdaptive", PrecisionGoal -> 4]]
+  NIntegrate[((1 + 3*\[Beta]/4) - 
+     y^(1/\[Beta] - 1) + (1/2)*y^(2/\[Beta] - 1))*
+   Subscript[\[Sigma], had][s*(1 - y^(1/\[Beta])), Nnu], {y, 0, 1}, 
+  Method -> "GlobalAdaptive", PrecisionGoal -> 4]]
 
 Plot[{Subscript[\[Sigma], ISR][Ecm, 2], 
   Subscript[\[Sigma], ISR][Ecm, 3], 
